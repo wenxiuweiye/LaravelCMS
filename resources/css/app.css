@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    /* ... */
+    .markdown-body {
+        @apply mockup-window border bg-base-200
+    }
+    .markdown-body *{
+        @apply m-4 rounded-lg
+    }
+    .markdown-body h1 {
+        @apply text-3xl font-bold glass p-2;
+    }
+
+    .markdown-body h2 {
+        @apply text-2xl font-semibold glass w-11/12 p-2;
+    }
+
+    .markdown-body h3 {
+        @apply text-xl font-medium  glass p-2 w-10/12;
+    }
+
+    .markdown-body a {
+        @apply text-primary underline
+    }
+    .markdown div{
+        @apply btn glass
+    }
+}

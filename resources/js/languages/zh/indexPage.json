@@ -1,0 +1,14 @@
+{
+    "Welcome to Laravel CMS": "一个现代响应式的界面优美的开箱即用的文章管理系统",
+    "btn start": "开始使用",
+    "btn switch": "切换语言",
+    "Convenient": "便捷",
+    "Convenient content": "你只需要动动手指就能管理自己的内容",
+    "Responsive": "响应式",
+    "Responsive content": "基于响应式设计，无论是PC还是手机都能获得最佳体验",
+    "Data Analysis": "数据分析",
+    "Data Analysis content": "附带的仪表板可以实时显示存储在数据库中的内容信息",
+    "i18": "i18",
+    "i18 content": "基于i18next，提供一流的本地化功能，一键切换应用语言"
+    
+}

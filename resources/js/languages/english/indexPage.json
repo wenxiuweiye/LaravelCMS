@@ -1,0 +1,14 @@
+{
+  "Welcome to Laravel CMS": "Out of the box article management system with a modern responsive interface",
+  "btn start": "Get Started",
+  "btn switch": "switch languages",
+  "Convenient": "Convenient",
+  "Convenient content": "You can manage your own content at your fingertips",
+  "Responsive": "Responsive",
+  "Responsive content": "With a responsive design, the best experience is achieved on both PC and mobile",
+  "Data Analysis": "Data Analysis",
+  "Data Analysis content": "The accompanying dashboard displays the content information stored in the database in real time",
+  "i18": "i18",
+  "i18 content": "Based on i18next, it provides first-class localization functions and switches application languages with one click"
+
+}
